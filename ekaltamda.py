@@ -1,5 +1,5 @@
 import os
-###########################################################
+
 path = r'C:\Users\daule\Desktop\KBTU Faili'
 os.chdir(path)
 
